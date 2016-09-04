@@ -1,0 +1,19 @@
+{"cat brands":
+	[
+	 {
+	   "FIELD1": "Brand",
+	   "FIELD2": "Breeds",
+	   "FIELD3": "Types / Prices"
+	 },
+	 {
+	   "FIELD1": "Purrina",
+	   "FIELD2": "Siamese, Bengal, Showshoe, Munchkin",
+	   "FIELD3": "Kitten, 20oz, 19.99 : Kitten, 32oz, 26.99 : Kitten, 64oz, 34.99 : Elite, 20oz, 24.99 : Elite, 40oz, 47.99"
+	 },
+	 {
+	   "FIELD1": "Meow Meal",
+	   "FIELD2": "Manx, Egyptian Mau, Himalayan, Rag Doll",
+	   "FIELD3": "Kitten, 24oz, 19.99 : Kitten, 48oz, 34.99 : Adult, 28oz, 22.99 : Adult, 56oz, 40.99"
+	 }
+	]
+}
